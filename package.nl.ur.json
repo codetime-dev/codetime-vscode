@@ -10,6 +10,7 @@
   "config.statusBarInfo.enum.today": "آج کا کوڈنگ وقت دکھائیں",
   "config.statusBarInfo.enum.24h": "گزشتہ 24 گھنٹوں کا کوڈنگ وقت دکھائیں",
   "config.serverEntrypoint.description": "سرور اینٹری پوائنٹ اس URL کی وضاحت کرتا ہے جہاں ڈیٹا رپورٹ کیا جائے گا۔",
+  "config.proxy.description": "API درخواستوں کے لیے پراکسی URL، مثال کے طور پر http://127.0.0.1:8080۔ اگر خالی چھوڑا جائے تو سسٹم کے پراکسی ماحولیاتی متغیرات (HTTP_PROXY/HTTPS_PROXY) استعمال کیے جائیں گے۔"
   "codetime.displayLanguage.title": "ڈسپلے زبان",
   "codetime.displayLanguage.description": "CodeTime ایکسٹینشن کے لیے ڈسپلے زبان منتخب کریں۔",
   "codetime.displayLanguage.enum.zh-cn": "چینی (سادہ)",
